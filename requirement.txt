@@ -1,0 +1,7 @@
+opencv-python
+numpy
+pyserial
+adafruit-io
+torch
+fastapi[all]
+uvicorn
